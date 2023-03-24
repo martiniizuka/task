@@ -9,5 +9,5 @@
 - Add the ability to list the year values from cars with a count of the number of cars from that year.
 *expected time 30 Minutes*
 
-Feel free to make any further improvements to the code and features that you see fit and be prepared to discuss your
-thinking and decisions
+Feel free to make any further improvements to the code, structure, package and features that you see fit.
+Please be prepared to discuss your thinking and decisions afterwards
